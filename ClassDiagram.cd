@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WoodPainting2.AboutBox">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>kIAAAAgAACAACAUAAACAACADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WoodPainting2.MainForm">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="button3" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAJIAEAAACAAQAEEBkCAEAAOIAghAQAJCAAAJoAAAEA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WoodPainting2.MessageForm">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACFAIAAAAACAAAACECAAAAgAACIAAAAAAAA=</HashCode>
+      <FileName>MessageForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WoodPainting2.Program">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WoodPainting2.QuestionForm">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gEAAVECAYGhAyQDJKACIJAIHGCUBBQiAIDYCCAQAgEY=</HashCode>
+      <FileName>QuestionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WoodPainting2.ResultsForm">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAACAEAAACAACACAEAAEAAAAAAAAAACAAA=</HashCode>
+      <FileName>ResultsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WoodPainting2.StartForm">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAAAAgAACAAAACAAAAAAAAAAAADAAAAAA=</HashCode>
+      <FileName>StartForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WoodPainting2.TheoryForm">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>kBAMAQAAgCAAEAgAIACBAgAqCQEIAQCgAQgsAAABAkA=</HashCode>
+      <FileName>TheoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WoodPainting2.Properties.Resources">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAAAAAFAAAAAAAAAAAABEAACAwSQAABIAIBAACAQAIQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WoodPainting2.Properties.Settings">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
